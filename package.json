@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "sqlite",
-  "version": "2.9.2",
+  "name": "node10-sqlite",
+  "version": "2.9.3",
   "description": "SQLite client for Node.js applications with SQL-based migrations API",
-  "repository": "kriasoft/node-sqlite",
+  "repository": "zadam/node10-sqlite",
   "author": "Kriasoft <hello@kriasoft.com> (https://www.kriasoft.com)",
   "contributors": [
     "Konstantin Tarkus <hello@tarkus.me> (https://twitter.com/koistya)",
